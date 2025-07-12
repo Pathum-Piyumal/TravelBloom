@@ -28,6 +28,7 @@
 Due to file size limits on GitHub, the **assets folder (images, icons, etc.) is hosted externally**.
 
 You can download the assets here:  
-[Assets Download Link]([YOUR_GOOGLE_DRIVE_LINK_HERE](https://drive.google.com/drive/folders/1qnZ_iAfg7RX8el2RBfJZawe9Vm3F4YxH?usp=sharing))
+[Assets Download Link]
+https://drive.google.com/drive/folders/1qnZ_iAfg7RX8el2RBfJZawe9Vm3F4YxH?usp=sharing
 
 
